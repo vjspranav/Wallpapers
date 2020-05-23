@@ -13,7 +13,7 @@ def createAuthor(fname):
 			(key, val, val1) = line.split(":")
 			key = key[:-1]
 			key=key.replace(' ', '_')
-			if (val[0]!='"' or val[1]!='"'):
+			if (val[0]!='"' and val[1]!='"'):
 				val='"'+val+'"' 
 			d[key] = val
 			if val1[-1]=="\n":
