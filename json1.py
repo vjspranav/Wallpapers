@@ -53,6 +53,9 @@ for j in folist:
 		no=no+1
 		fname=j+'/'+i
 		name=i.replace('_', ' ')
+		if '.jpg' in name: name=name.replace('.jpg', '')
+		if '.jpeg' in name: name=name.replace('.jpeg', '')
+		if '.png' in name: name=name.replace('.png', '')
 		print('(', no, '/' ,count, ') Compressing ' + i, end='\r')
 		compressimg(fname, i)
 		s=os.stat(fname).st_size
