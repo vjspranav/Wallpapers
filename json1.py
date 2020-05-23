@@ -52,6 +52,7 @@ for j in folist:
 	for i in list:
 		no=no+1
 		fname=j+'/'+i
+		name=i.replace('_', ' ')
 		print('(', no, '/' ,count, ') Compressing ' + i, end='\r')
 		compressimg(fname, i)
 		s=os.stat(fname).st_size
@@ -67,7 +68,7 @@ for j in folist:
 	                "downloadable": true,
 	                "size": %s,
         	        "copyright": %s 
-        	}''' % ( i, auth, j, i, i, j, s, cpr)
+        	}''' % ( name, auth, j, i, i, j, s, cpr)
 		data.append(str)
 
 with open('walls.json', 'w') as outfile:
