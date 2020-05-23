@@ -19,7 +19,7 @@ def createAuthor(fname):
 			if val1[-1]=="\n":
 				(val1, _)=val1.split("\n")
 			key = key+"_copyright"
-			if (val1[0]!='"' or val1[1]!='"'):
+			if (val1[0]!='"' and val1[1]!='"'):
 				val1='"'+val1+'"'
 			d[key] = val1
 
