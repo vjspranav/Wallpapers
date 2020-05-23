@@ -10,15 +10,18 @@ d = {}
 def createAuthor(fname):
 	with open(fname, "r") as f:
 		for line in f:
-			(key, val) = line.split(":")
-			(val, _)=val.split("\n")
-			(key, _) = key.split(" ")
+			(key, val, val1) = line.split(":")
+			key = key[:-1]
+			key=key.replace(' ', '_')
+			if (val[0]!='"' or val[1]!='"'):
+				val='"'+val+'"' 
 			d[key] = val
-			l2 = f.readline()
-			(_, val) = l2.split(":")
-			(val, _)=val.split("\n")
+			if val1[-1]=="\n":
+				(val1, _)=val1.split("\n")
 			key = key+"_copyright"
-			d[key] = val
+			if (val1[0]!='"' or val1[1]!='"'):
+				val1='"'+val1+'"'
+			d[key] = val1
 
 def compressimg(x1, y1):
 	foo = Image.open(x1)
