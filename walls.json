@@ -1,72 +1,382 @@
 [
 	        {
-	                "name": "riedstadt germany",
+	                "name": "STAGOSGTR10",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/STAGOSGTR10.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/STAGOSGTR10.jpg",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 145632,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Stag2",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Stag2.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag2.jpg",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 201925,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Stag Magnus",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Stag_Magnus.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_Magnus.jpg",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 303670,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "STAGOSGTR9",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/STAGOSGTR9.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/STAGOSGTR9.jpg",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 863600,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "OOS Red Alt",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/OOS_Red_Alt.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OOS_Red_Alt.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 171300,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Core Blue AF",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Core_Blue_AF.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Core_Blue_AF.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 3445243,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Stag Patriarch",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Stag_Patriarch.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_Patriarch.jpg",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 1599172,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Stag Doodle",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Stag_Doodle.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_Doodle.jpg",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 606453,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "OOS Red",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/OOS_Red.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OOS_Red.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 181313,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Stag Ocean",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Stag_Ocean.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_Ocean.jpg",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 653226,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Frame 3",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Frame_3.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Frame_3.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 1448724,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Core Green",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Core_Green.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Core_Green.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 3288280,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Light Yellow",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Light_Yellow.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Light_Yellow.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 176219,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Outline Red",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Outline_Red.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Outline_Red.jpg",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 132234,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Stag Endgame",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Stag_Endgame.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_Endgame.jpg",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 1502693,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Stag Black",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Stag_Black.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_Black.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 83492,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Stag Pop",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Stag_Pop.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_Pop.jpg",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 338296,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Eye Rape",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Eye_Rape.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Eye_Rape.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 179695,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Outline Blue",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Outline_Blue.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Outline_Blue.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 192957,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Stag Geometry",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Stag_Geometry.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_Geometry.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 182169,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Outline Green",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Outline_Green.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Outline_Green.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 207904,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Core Blue",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Core_Blue.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Core_Blue.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 3373704,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Stag Abstract",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Stag_Abstract.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_Abstract.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 1634189,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Fluorescent Green O",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Fluorescent_Green_O.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Fluorescent_Green_O.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 179999,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Stag mr haha",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Stag_mr_haha.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_mr_haha.jpg",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 256791,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Outline Yellow",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Outline_Yellow.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Outline_Yellow.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 194049,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Stag Unique",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Stag_Unique.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_Unique.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 418155,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Stag Matrix",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Stag_Matrix.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_Matrix.jpg",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 511718,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Fluorescent Green",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Fluorescent_Green.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Fluorescent_Green.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 184383,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Core Red",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Stag/Core_Red.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Core_Red.png",
+	                "collections": "Stag",
+	                "downloadable": true,
+	                "size": 3506443,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "arizona united states 3",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/riedstadt_germany.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/riedstadt_germany.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/arizona_united_states_3.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/arizona_united_states_3.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 886495,
+	                "size": 1068708,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "mirabello bay greece",
+	                "name": "ġaryān libya",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/mirabello_bay_greece.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/mirabello_bay_greece.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/ġaryān_libya.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/ġaryān_libya.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1999211,
+	                "size": 1698030,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "coral sea new caledonia",
+	                "name": "mellum germany",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/coral_sea_new_caledonia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/coral_sea_new_caledonia.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/mellum_germany.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/mellum_germany.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1413023,
+	                "size": 1632544,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "glen canyon united states",
+	                "name": "moomba australia",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/glen_canyon_united_states.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/glen_canyon_united_states.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/moomba_australia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/moomba_australia.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 2062134,
+	                "size": 1446024,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "salinas grandes argentina",
+	                "name": "moab united state",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/salinas_grandes_argentina.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/salinas_grandes_argentina.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/moab_united_state.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/moab_united_state.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 552513,
+	                "size": 977646,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "utah united states 8",
+	                "name": "metoru island new caledonia",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/utah_united_states_8.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/utah_united_states_8.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/metoru_island_new_caledonia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/metoru_island_new_caledonia.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 797142,
+	                "size": 1527775,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "nyingchi, tibet china",
+	                "name": "creswell australia",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/nyingchi,_tibet_china.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/nyingchi,_tibet_china.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/creswell_australia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/creswell_australia.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 2512613,
+	                "size": 937845,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "great salt lake united states",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/great_salt_lake_united_states.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/great_salt_lake_united_states.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 841976,
         	        "copyright": " Google LLC" 
         	},
 	        {
@@ -80,53 +390,33 @@
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "coral sea australia",
+	                "name": "antarctica ",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/coral_sea_australia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/coral_sea_australia.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/antarctica_.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/antarctica_.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1016084,
+	                "size": 976686,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "antarctica  7",
+	                "name": "arizona united states",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/antarctica__7.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/antarctica__7.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/arizona_united_states.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/arizona_united_states.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1148445,
+	                "size": 1519450,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "añelo dept argentina",
+	                "name": "illizi algeri",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/añelo_dept_argentina.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/añelo_dept_argentina.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/illizi_algeri.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/illizi_algeri.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1920971,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "al gharbia united arab emirates",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_gharbia_united_arab_emirates.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_gharbia_united_arab_emirates.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 972545,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "cuba",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/cuba.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/cuba.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1001581,
+	                "size": 1462935,
         	        "copyright": " Google LLC" 
         	},
 	        {
@@ -140,36 +430,6 @@
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "utah united states",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/utah_united_states.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/utah_united_states.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 830467,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "borma algeria",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/borma_algeria.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/borma_algeria.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1304547,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "barrow island australia",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/barrow_island_australia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/barrow_island_australia.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 968624,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
 	                "name": "isles of scilly united kingdom",
 	                "author": " Google ",
 	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/isles_of_scilly_united_kingdom.jpg",
@@ -180,23 +440,43 @@
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "qesm al wahat ad dakhlah egypt",
+	                "name": "faiyum egypt",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/qesm_al_wahat_ad_dakhlah_egypt.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/qesm_al_wahat_ad_dakhlah_egypt.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/faiyum_egypt.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/faiyum_egypt.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1823314,
+	                "size": 1116249,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "al ahsa saudi arabia",
+	                "name": "mirabello bay greece",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_ahsa_saudi_arabia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_ahsa_saudi_arabia.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/mirabello_bay_greece.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/mirabello_bay_greece.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 754316,
+	                "size": 1999211,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "florida united states 2",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/florida_united_states_2.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/florida_united_states_2.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 2372414,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "al kufrah libya ",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_kufrah_libya_.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_kufrah_libya_.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 832106,
         	        "copyright": " Google LLC" 
         	},
 	        {
@@ -210,63 +490,33 @@
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "san pedro de atacama chile",
+	                "name": "salinas grandes argentina",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/san_pedro_de_atacama_chile.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/san_pedro_de_atacama_chile.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/salinas_grandes_argentina.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/salinas_grandes_argentina.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 786554,
+	                "size": 552513,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "al jowf saudi arabia ",
+	                "name": "hardap namibi",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_jowf_saudi_arabia_.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_jowf_saudi_arabia_.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/hardap_namibi.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/hardap_namibi.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 967264,
+	                "size": 2099019,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "easter island chile",
+	                "name": "tabuaeran kiribati",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/easter_island_chile.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/easter_island_chile.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/tabuaeran_kiribati.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/tabuaeran_kiribati.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1786453,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "ceel dheer somalia",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/ceel_dheer_somalia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/ceel_dheer_somalia.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 3970967,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "antonio quijarro bolivia 9",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/antonio_quijarro_bolivia_9.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/antonio_quijarro_bolivia_9.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 696435,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "lake gairdner australia",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/lake_gairdner_australia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/lake_gairdner_australia.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 799759,
+	                "size": 1059424,
         	        "copyright": " Google LLC" 
         	},
 	        {
@@ -280,13 +530,523 @@
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "ġaryān libya",
+	                "name": "el vizcaíno biosphere reserve mexico",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/ġaryān_libya.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/ġaryān_libya.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/el_vizcaíno_biosphere_reserve_mexico.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/el_vizcaíno_biosphere_reserve_mexico.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1698030,
+	                "size": 1042889,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "niederzier germany",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/niederzier_germany.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/niederzier_germany.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1222358,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "olympic dam australia",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/olympic_dam_australia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/olympic_dam_australia.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 2356852,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "hokkaido japan",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/hokkaido_japan.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/hokkaido_japan.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 964022,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "victoria australia",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/victoria_australia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/victoria_australia.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1340484,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "añelo dept argentina",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/añelo_dept_argentina.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/añelo_dept_argentina.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1920971,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "al ahsa saudi arabia 2 ",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_ahsa_saudi_arabia_2_.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_ahsa_saudi_arabia_2_.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 696224,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "haixi china",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/haixi_china.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/haixi_china.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 963740,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "antonio quijarro bolivia 9",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/antonio_quijarro_bolivia_9.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/antonio_quijarro_bolivia_9.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 696435,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "utah united states 8",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/utah_united_states_8.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/utah_united_states_8.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 797142,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "beegden the netherlands",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/beegden_the_netherlands.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/beegden_the_netherlands.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 2074482,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "nevado tres cruces park chile",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/nevado_tres_cruces_park_chile.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/nevado_tres_cruces_park_chile.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1030054,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "al jarf united arab emirates",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_jarf_united_arab_emirates.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_jarf_united_arab_emirates.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 697631,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "glen canyon united states",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/glen_canyon_united_states.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/glen_canyon_united_states.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 2062134,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "cuba",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/cuba.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/cuba.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1001581,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "antonio quijarro bolivia",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/antonio_quijarro_bolivia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/antonio_quijarro_bolivia.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1161426,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "pozoantiguo spain",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/pozoantiguo_spain.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/pozoantiguo_spain.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1733700,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "shadegan refuge iran",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/shadegan_refuge_iran.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/shadegan_refuge_iran.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1373397,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "texas united states",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/texas_united_states.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/texas_united_states.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1108334,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "al jowf saudi arabi",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_jowf_saudi_arabi.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_jowf_saudi_arabi.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 970357,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "al ahsa saudi arabia",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_ahsa_saudi_arabia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_ahsa_saudi_arabia.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 754316,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "gulf of martaban myanmar (burma)",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/gulf_of_martaban_myanmar_(burma).jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/gulf_of_martaban_myanmar_(burma).jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 749878,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "xigaze, tibet china",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/xigaze,_tibet_china.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/xigaze,_tibet_china.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1313109,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "şehitkamil turkey",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/şehitkamil_turkey.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/şehitkamil_turkey.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1630470,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "lake acraman australia",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/lake_acraman_australia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/lake_acraman_australia.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1343196,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "stanislaus river united states",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/stanislaus_river_united_states.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/stanislaus_river_united_states.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 2048766,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "barrow island australia",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/barrow_island_australia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/barrow_island_australia.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 968624,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "midway island united state",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/midway_island_united_state.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/midway_island_united_state.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 918782,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "ngari, tibet china 5",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/ngari,_tibet_china_5.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/ngari,_tibet_china_5.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1191573,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "borma algeria",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/borma_algeria.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/borma_algeria.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1304547,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "ragged island the bahamas",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/ragged_island_the_bahamas.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/ragged_island_the_bahamas.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1468641,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "al kufrah liby",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_kufrah_liby.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_kufrah_liby.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1418654,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "gobustan state reserve azerbaijan",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/gobustan_state_reserve_azerbaijan.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/gobustan_state_reserve_azerbaijan.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1324913,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "calabasas united states",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/calabasas_united_states.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/calabasas_united_states.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1991162,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "haibei china",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/haibei_china.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/haibei_china.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 945292,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "fderik mauritania",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/fderik_mauritania.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/fderik_mauritania.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1096380,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "banc d'arguin park mauritania",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/banc_d'arguin_park_mauritania.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/banc_d'arguin_park_mauritania.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1118061,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "galway ireland",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/galway_ireland.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/galway_ireland.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 711725,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "loncopué dept argentina",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/loncopué_dept_argentina.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/loncopué_dept_argentina.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 882477,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "antarctica  7",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/antarctica__7.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/antarctica__7.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1148445,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "texas united states 8",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/texas_united_states_8.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/texas_united_states_8.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1741438,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "fakahatchee bay united states",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/fakahatchee_bay_united_states.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/fakahatchee_bay_united_states.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1686338,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "al jawf libya",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_jawf_libya.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_jawf_libya.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1264422,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "ngari, tibet china",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/ngari,_tibet_china.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/ngari,_tibet_china.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1260737,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "the minquiers channel islands",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/the_minquiers_channel_islands.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/the_minquiers_channel_islands.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1281128,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "siuslaw national forest united states",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/siuslaw_national_forest_united_states.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/siuslaw_national_forest_united_states.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1026070,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "yang zhuo yong cuo, tibet china",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/yang_zhuo_yong_cuo,_tibet_china.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/yang_zhuo_yong_cuo,_tibet_china.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1628989,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "utah united states",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/utah_united_states.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/utah_united_states.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 830467,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "nyingchi, tibet china",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/nyingchi,_tibet_china.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/nyingchi,_tibet_china.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 2512613,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "belo horizonte brazil",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/belo_horizonte_brazil.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/belo_horizonte_brazil.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 2330250,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "peedamulla australia",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/peedamulla_australia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/peedamulla_australia.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1424692,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "ceel dheer somalia",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/ceel_dheer_somalia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/ceel_dheer_somalia.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 3970967,
         	        "copyright": " Google LLC" 
         	},
 	        {
@@ -310,503 +1070,23 @@
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "gulf of martaban myanmar (burma)",
+	                "name": "qinghai lake china",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/gulf_of_martaban_myanmar_(burma).jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/gulf_of_martaban_myanmar_(burma).jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/qinghai_lake_china.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/qinghai_lake_china.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 749878,
+	                "size": 1470002,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "peedamulla australia",
+	                "name": "easter island chile",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/peedamulla_australia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/peedamulla_australia.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/easter_island_chile.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/easter_island_chile.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1424692,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "hokkaido japan",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/hokkaido_japan.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/hokkaido_japan.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 964022,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "al ahsa saudi arabia 2 ",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_ahsa_saudi_arabia_2_.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_ahsa_saudi_arabia_2_.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 696224,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "al jowf saudi arabi",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_jowf_saudi_arabi.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_jowf_saudi_arabi.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 970357,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "lake acraman australia",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/lake_acraman_australia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/lake_acraman_australia.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1343196,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "florida united states",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/florida_united_states.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/florida_united_states.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 2730577,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "ngari, tibet china 5",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/ngari,_tibet_china_5.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/ngari,_tibet_china_5.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1191573,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "tabuaeran kiribati",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/tabuaeran_kiribati.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/tabuaeran_kiribati.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1059424,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "mellum germany",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/mellum_germany.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/mellum_germany.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1632544,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "antonio quijarro bolivia",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/antonio_quijarro_bolivia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/antonio_quijarro_bolivia.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1161426,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "nevado tres cruces park chile",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/nevado_tres_cruces_park_chile.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/nevado_tres_cruces_park_chile.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1030054,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "gobustan state reserve azerbaijan",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/gobustan_state_reserve_azerbaijan.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/gobustan_state_reserve_azerbaijan.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1324913,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "khorramshahr iran",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/khorramshahr_iran.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/khorramshahr_iran.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1416079,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "al jawf libya",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_jawf_libya.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_jawf_libya.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1264422,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "xigaze, tibet china",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/xigaze,_tibet_china.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/xigaze,_tibet_china.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1313109,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "metoru island new caledonia",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/metoru_island_new_caledonia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/metoru_island_new_caledonia.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1527775,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "al jarf united arab emirates",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_jarf_united_arab_emirates.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_jarf_united_arab_emirates.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 697631,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "pozoantiguo spain",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/pozoantiguo_spain.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/pozoantiguo_spain.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1733700,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "utah united states 9",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/utah_united_states_9.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/utah_united_states_9.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1526165,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "fakahatchee bay united states",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/fakahatchee_bay_united_states.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/fakahatchee_bay_united_states.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1686338,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "galway ireland",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/galway_ireland.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/galway_ireland.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 711725,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "an nuqat al khams libya",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/an_nuqat_al_khams_libya.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/an_nuqat_al_khams_libya.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1632396,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "moab united state",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/moab_united_state.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/moab_united_state.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 977646,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "illizi algeri",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/illizi_algeri.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/illizi_algeri.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1462935,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "stanislaus river united states",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/stanislaus_river_united_states.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/stanislaus_river_united_states.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 2048766,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "moomba australia",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/moomba_australia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/moomba_australia.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1446024,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "shadegan refuge iran",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/shadegan_refuge_iran.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/shadegan_refuge_iran.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1373397,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "yang zhuo yong cuo, tibet china",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/yang_zhuo_yong_cuo,_tibet_china.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/yang_zhuo_yong_cuo,_tibet_china.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1628989,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "haibei china",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/haibei_china.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/haibei_china.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 945292,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "iceland ",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/iceland_.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/iceland_.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1320684,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "siuslaw national forest united states",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/siuslaw_national_forest_united_states.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/siuslaw_national_forest_united_states.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1026070,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "ngari, tibet china",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/ngari,_tibet_china.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/ngari,_tibet_china.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1260737,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "mansel island canada",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/mansel_island_canada.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/mansel_island_canada.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 893198,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "ragged island the bahamas",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/ragged_island_the_bahamas.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/ragged_island_the_bahamas.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1468641,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "kujalleq greenland",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/kujalleq_greenland.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/kujalleq_greenland.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1425892,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "beegden the netherlands",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/beegden_the_netherlands.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/beegden_the_netherlands.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 2074482,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "arizona united states 3",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/arizona_united_states_3.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/arizona_united_states_3.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1068708,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "olympic dam australia",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/olympic_dam_australia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/olympic_dam_australia.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 2356852,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "fderik mauritania",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/fderik_mauritania.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/fderik_mauritania.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1096380,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "el vizcaíno biosphere reserve mexico",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/el_vizcaíno_biosphere_reserve_mexico.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/el_vizcaíno_biosphere_reserve_mexico.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1042889,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "antarctica ",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/antarctica_.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/antarctica_.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 976686,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "texas united states 8",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/texas_united_states_8.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/texas_united_states_8.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1741438,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "al kufrah liby",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_kufrah_liby.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_kufrah_liby.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1418654,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "arizona united states",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/arizona_united_states.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/arizona_united_states.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1519450,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "great salt lake united states",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/great_salt_lake_united_states.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/great_salt_lake_united_states.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 841976,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "banc d'arguin park mauritania",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/banc_d'arguin_park_mauritania.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/banc_d'arguin_park_mauritania.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1118061,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "loncopué dept argentina",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/loncopué_dept_argentina.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/loncopué_dept_argentina.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 882477,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "hardap namibi",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/hardap_namibi.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/hardap_namibi.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 2099019,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "belo horizonte brazil",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/belo_horizonte_brazil.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/belo_horizonte_brazil.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 2330250,
+	                "size": 1786453,
         	        "copyright": " Google LLC" 
         	},
 	        {
@@ -820,36 +1100,6 @@
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "faiyum egypt",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/faiyum_egypt.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/faiyum_egypt.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1116249,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "yellowstone united states",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/yellowstone_united_states.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/yellowstone_united_states.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 851060,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "al kufrah libya ",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_kufrah_libya_.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_kufrah_libya_.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 832106,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
 	                "name": "redwood city united states",
 	                "author": " Google ",
 	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/redwood_city_united_states.jpg",
@@ -857,56 +1107,6 @@
 	                "collections": "Earth",
 	                "downloadable": true,
 	                "size": 1648201,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "şehitkamil turkey",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/şehitkamil_turkey.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/şehitkamil_turkey.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1630470,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "niederzier germany",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/niederzier_germany.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/niederzier_germany.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1222358,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "victoria australia",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/victoria_australia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/victoria_australia.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1340484,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "bulunsky district russia",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/bulunsky_district_russia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/bulunsky_district_russia.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 1374885,
-        	        "copyright": " Google LLC" 
-        	},
-	        {
-	                "name": "creswell australia",
-	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/creswell_australia.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/creswell_australia.jpg",
-	                "collections": "Earth",
-	                "downloadable": true,
-	                "size": 937845,
         	        "copyright": " Google LLC" 
         	},
 	        {
@@ -920,73 +1120,163 @@
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "the minquiers channel islands",
+	                "name": "yellowstone united states",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/the_minquiers_channel_islands.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/the_minquiers_channel_islands.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/yellowstone_united_states.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/yellowstone_united_states.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1281128,
+	                "size": 851060,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "florida united states 2",
+	                "name": "qesm al wahat ad dakhlah egypt",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/florida_united_states_2.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/florida_united_states_2.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/qesm_al_wahat_ad_dakhlah_egypt.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/qesm_al_wahat_ad_dakhlah_egypt.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 2372414,
+	                "size": 1823314,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "midway island united state",
+	                "name": "an nuqat al khams libya",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/midway_island_united_state.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/midway_island_united_state.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/an_nuqat_al_khams_libya.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/an_nuqat_al_khams_libya.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 918782,
+	                "size": 1632396,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "haixi china",
+	                "name": "al jowf saudi arabia ",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/haixi_china.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/haixi_china.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_jowf_saudi_arabia_.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_jowf_saudi_arabia_.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 963740,
+	                "size": 967264,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "texas united states",
+	                "name": "kujalleq greenland",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/texas_united_states.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/texas_united_states.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/kujalleq_greenland.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/kujalleq_greenland.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1108334,
+	                "size": 1425892,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "qinghai lake china",
+	                "name": "coral sea new caledonia",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/qinghai_lake_china.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/qinghai_lake_china.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/coral_sea_new_caledonia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/coral_sea_new_caledonia.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1470002,
+	                "size": 1413023,
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "calabasas united states",
+	                "name": "coral sea australia",
 	                "author": " Google ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/calabasas_united_states.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/calabasas_united_states.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/coral_sea_australia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/coral_sea_australia.jpg",
 	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1991162,
+	                "size": 1016084,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "lake gairdner australia",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/lake_gairdner_australia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/lake_gairdner_australia.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 799759,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "san pedro de atacama chile",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/san_pedro_de_atacama_chile.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/san_pedro_de_atacama_chile.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 786554,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "al gharbia united arab emirates",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/al_gharbia_united_arab_emirates.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/al_gharbia_united_arab_emirates.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 972545,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "mansel island canada",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/mansel_island_canada.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/mansel_island_canada.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 893198,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "florida united states",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/florida_united_states.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/florida_united_states.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 2730577,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "khorramshahr iran",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/khorramshahr_iran.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/khorramshahr_iran.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1416079,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "riedstadt germany",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/riedstadt_germany.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/riedstadt_germany.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 886495,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "bulunsky district russia",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/bulunsky_district_russia.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/bulunsky_district_russia.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1374885,
+        	        "copyright": " Google LLC" 
+        	},
+	        {
+	                "name": "utah united states 9",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/utah_united_states_9.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/utah_united_states_9.jpg",
+	                "collections": "Earth",
+	                "downloadable": true,
+	                "size": 1526165,
         	        "copyright": " Google LLC" 
         	},
 	        {
@@ -1000,104 +1290,144 @@
         	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "Cycle",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Cycle.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Cycle.jpg",
-	                "collections": "Nature",
+	                "name": "iceland ",
+	                "author": " Google ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Earth/iceland_.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/iceland_.jpg",
+	                "collections": "Earth",
 	                "downloadable": true,
-	                "size": 1384115,
-        	        "copyright": " none" 
+	                "size": 1320684,
+        	        "copyright": " Google LLC" 
         	},
 	        {
-	                "name": "Nature",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Nature.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Nature.jpg",
-	                "collections": "Nature",
+	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-04",
+	                "author":  "OnePlus" ,
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-04.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-04.jpg",
+	                "collections": "OnePlus",
 	                "downloadable": true,
-	                "size": 2506546,
-        	        "copyright": " none" 
+	                "size": 190769,
+        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
         	},
 	        {
-	                "name": "Spooky Leaves",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Spooky_Leaves.png",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Spooky_Leaves.png",
-	                "collections": "Nature",
+	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-02",
+	                "author":  "OnePlus" ,
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-02.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-02.jpg",
+	                "collections": "OnePlus",
 	                "downloadable": true,
-	                "size": 3642422,
-        	        "copyright": " none" 
+	                "size": 185446,
+        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
         	},
 	        {
-	                "name": "Wall 44",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Wall_44.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Wall_44.jpg",
-	                "collections": "Nature",
+	                "name": "OnePlus-7T-Stock-Wallpaper-05",
+	                "author":  "OnePlus" ,
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-7T-Stock-Wallpaper-05.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-7T-Stock-Wallpaper-05.jpg",
+	                "collections": "OnePlus",
 	                "downloadable": true,
-	                "size": 1429477,
-        	        "copyright": " none" 
+	                "size": 589624,
+        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
         	},
 	        {
-	                "name": "Forest",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Forest.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Forest.jpg",
-	                "collections": "Nature",
+	                "name": "OnePlus-7T-Stock-Wallpaper-01",
+	                "author":  "OnePlus" ,
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-7T-Stock-Wallpaper-01.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-7T-Stock-Wallpaper-01.jpg",
+	                "collections": "OnePlus",
 	                "downloadable": true,
-	                "size": 3928851,
-        	        "copyright": " none" 
+	                "size": 119164,
+        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
         	},
 	        {
-	                "name": "Dark green forest",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Dark_green_forest.png",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Dark_green_forest.png",
-	                "collections": "Nature",
+	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-06",
+	                "author":  "OnePlus" ,
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-06.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-06.jpg",
+	                "collections": "OnePlus",
 	                "downloadable": true,
-	                "size": 7140336,
-        	        "copyright": " none" 
+	                "size": 101687,
+        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
         	},
 	        {
-	                "name": "Clouds",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Clouds.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Clouds.jpg",
-	                "collections": "Nature",
+	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-03",
+	                "author":  "OnePlus" ,
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-03.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-03.jpg",
+	                "collections": "OnePlus",
 	                "downloadable": true,
-	                "size": 351270,
-        	        "copyright": " none" 
+	                "size": 103401,
+        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
         	},
 	        {
-	                "name": "Sharp leaf",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Sharp_leaf.jpeg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Sharp_leaf.jpeg",
-	                "collections": "Nature",
+	                "name": "OnePlus-7T-Stock-Wallpaper-06",
+	                "author":  "OnePlus" ,
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-7T-Stock-Wallpaper-06.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-7T-Stock-Wallpaper-06.jpg",
+	                "collections": "OnePlus",
 	                "downloadable": true,
-	                "size": 3153421,
-        	        "copyright": " none" 
+	                "size": 1085821,
+        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
         	},
 	        {
-	                "name": "Lone mountain",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Lone_mountain.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Lone_mountain.jpg",
-	                "collections": "Nature",
+	                "name": "OnePlus-7T-Pro-McLaren-Stock-Wallpaper-05",
+	                "author":  "OnePlus" ,
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-7T-Pro-McLaren-Stock-Wallpaper-05.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-7T-Pro-McLaren-Stock-Wallpaper-05.jpg",
+	                "collections": "OnePlus",
 	                "downloadable": true,
-	                "size": 1336832,
-        	        "copyright": " none" 
+	                "size": 159603,
+        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
         	},
 	        {
-	                "name": "Dark mountain",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Dark_mountain.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Dark_mountain.jpg",
-	                "collections": "Nature",
+	                "name": "OnePlus-7T-Pro-McLaren-Stock-Wallpaper-01",
+	                "author":  "OnePlus" ,
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-7T-Pro-McLaren-Stock-Wallpaper-01.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-7T-Pro-McLaren-Stock-Wallpaper-01.jpg",
+	                "collections": "OnePlus",
 	                "downloadable": true,
-	                "size": 121252,
-        	        "copyright": " none" 
+	                "size": 98406,
+        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
+        	},
+	        {
+	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-01",
+	                "author":  "OnePlus" ,
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-01.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-01.jpg",
+	                "collections": "OnePlus",
+	                "downloadable": true,
+	                "size": 160244,
+        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
+        	},
+	        {
+	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-07",
+	                "author":  "OnePlus" ,
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-07.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-07.jpg",
+	                "collections": "OnePlus",
+	                "downloadable": true,
+	                "size": 183159,
+        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
+        	},
+	        {
+	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-05",
+	                "author":  "OnePlus" ,
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-05.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-05.jpg",
+	                "collections": "OnePlus",
+	                "downloadable": true,
+	                "size": 118152,
+        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
+        	},
+	        {
+	                "name": "OnePlus-7T-Stock-Wallpaper-07",
+	                "author":  "OnePlus" ,
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-7T-Stock-Wallpaper-07.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-7T-Stock-Wallpaper-07.jpg",
+	                "collections": "OnePlus",
+	                "downloadable": true,
+	                "size": 578767,
+        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
         	},
 	        {
 	                "name": "Dark texture",
@@ -1110,53 +1440,13 @@
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Waves",
+	                "name": "Stag sillhouette",
 	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Waves.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Waves.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Stag_sillhouette.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_sillhouette.png",
 	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 4646318,
-        	        "copyright": " none" 
-        	},
-	        {
-	                "name": "Beach",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Beach.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Beach.jpg",
-	                "collections": "Nature",
-	                "downloadable": true,
-	                "size": 5499002,
-        	        "copyright": " none" 
-        	},
-	        {
-	                "name": "Shell",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Shell.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Shell.jpg",
-	                "collections": "Nature",
-	                "downloadable": true,
-	                "size": 346954,
-        	        "copyright": " none" 
-        	},
-	        {
-	                "name": "Dark texture 2",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Dark_texture_2.jpeg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Dark_texture_2.jpeg",
-	                "collections": "Nature",
-	                "downloadable": true,
-	                "size": 1145256,
-        	        "copyright": " none" 
-        	},
-	        {
-	                "name": "Black forest",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Black_forest.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Black_forest.jpg",
-	                "collections": "Nature",
-	                "downloadable": true,
-	                "size": 1198259,
+	                "size": 897419,
         	        "copyright": " none" 
         	},
 	        {
@@ -1170,46 +1460,6 @@
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Red palm",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Red_palm.png",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Red_palm.png",
-	                "collections": "Nature",
-	                "downloadable": true,
-	                "size": 1735836,
-        	        "copyright": " none" 
-        	},
-	        {
-	                "name": "Flower",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Flower.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Flower.jpg",
-	                "collections": "Nature",
-	                "downloadable": true,
-	                "size": 1925960,
-        	        "copyright": " none" 
-        	},
-	        {
-	                "name": "Mountain",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Mountain.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Mountain.jpg",
-	                "collections": "Nature",
-	                "downloadable": true,
-	                "size": 89963,
-        	        "copyright": " none" 
-        	},
-	        {
-	                "name": "Green leaves",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Green_leaves.png",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Green_leaves.png",
-	                "collections": "Nature",
-	                "downloadable": true,
-	                "size": 2083011,
-        	        "copyright": " none" 
-        	},
-	        {
 	                "name": "Pink Tree",
 	                "author": " unknown ",
 	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Pink_Tree.jpg",
@@ -1220,53 +1470,13 @@
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Desert",
+	                "name": "Lone mountain",
 	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Desert.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Desert.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Lone_mountain.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Lone_mountain.jpg",
 	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 4216590,
-        	        "copyright": " none" 
-        	},
-	        {
-	                "name": "Reflection",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Reflection.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Reflection.jpg",
-	                "collections": "Nature",
-	                "downloadable": true,
-	                "size": 4497296,
-        	        "copyright": " none" 
-        	},
-	        {
-	                "name": "Black water",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Black_water.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Black_water.jpg",
-	                "collections": "Nature",
-	                "downloadable": true,
-	                "size": 167338,
-        	        "copyright": " none" 
-        	},
-	        {
-	                "name": "Bamboo",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Bamboo.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Bamboo.jpg",
-	                "collections": "Nature",
-	                "downloadable": true,
-	                "size": 1438602,
-        	        "copyright": " none" 
-        	},
-	        {
-	                "name": "Ocean",
-	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Ocean.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Ocean.jpg",
-	                "collections": "Nature",
-	                "downloadable": true,
-	                "size": 4667455,
+	                "size": 1336832,
         	        "copyright": " none" 
         	},
 	        {
@@ -1280,6 +1490,36 @@
         	        "copyright": " none" 
         	},
 	        {
+	                "name": "Mountains",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Mountains.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Mountains.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 402967,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Black forest",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Black_forest.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Black_forest.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 1198259,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Winter",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Winter.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Winter.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 4438214,
+        	        "copyright": " none" 
+        	},
+	        {
 	                "name": "Wood",
 	                "author": " unknown ",
 	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Wood.png",
@@ -1290,23 +1530,33 @@
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Dark long leaves",
+	                "name": "Waves",
 	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Dark_long_leaves.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Dark_long_leaves.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Waves.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Waves.jpg",
 	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 40355,
+	                "size": 4646318,
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Texture",
+	                "name": "Forest",
 	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Texture.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Texture.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Forest.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Forest.jpg",
 	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 500898,
+	                "size": 3928851,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Green leaf",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Green_leaf.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Green_leaf.png",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 5688995,
         	        "copyright": " none" 
         	},
 	        {
@@ -1330,53 +1580,53 @@
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Dark sea",
+	                "name": "Clouds",
 	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Dark_sea.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Dark_sea.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Clouds.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Clouds.jpg",
 	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 296316,
+	                "size": 351270,
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Dark bird",
+	                "name": "Texture",
 	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Dark_bird.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Dark_bird.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Texture.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Texture.jpg",
 	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 540730,
+	                "size": 500898,
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Mountains",
+	                "name": "Nature",
 	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Mountains.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Mountains.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Nature.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Nature.jpg",
 	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 402967,
+	                "size": 2506546,
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Pink Forest",
+	                "name": "Bamboo",
 	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Pink_Forest.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Pink_Forest.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Bamboo.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Bamboo.jpg",
 	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 5494483,
+	                "size": 1438602,
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Wall 38",
+	                "name": "Red palm",
 	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Wall_38.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Wall_38.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Red_palm.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Red_palm.png",
 	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 423801,
+	                "size": 1735836,
         	        "copyright": " none" 
         	},
 	        {
@@ -1400,23 +1650,183 @@
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Cloud",
+	                "name": "Ocean",
 	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Cloud.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Cloud.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Ocean.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Ocean.jpg",
 	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 161540,
+	                "size": 4667455,
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Stag sillhouette",
+	                "name": "Shell",
 	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Stag_sillhouette.png",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Stag_sillhouette.png",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Shell.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Shell.jpg",
 	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 897419,
+	                "size": 346954,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Desert",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Desert.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Desert.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 4216590,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Dark green forest",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Dark_green_forest.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Dark_green_forest.png",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 7140336,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Dark sea",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Dark_sea.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Dark_sea.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 296316,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Cycle",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Cycle.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Cycle.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 1384115,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Green leaves",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Green_leaves.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Green_leaves.png",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 2083011,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Flower",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Flower.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Flower.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 1925960,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Pink Forest",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Pink_Forest.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Pink_Forest.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 5494483,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Black water",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Black_water.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Black_water.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 167338,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Beach",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Beach.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Beach.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 5499002,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Wall 44",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Wall_44.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Wall_44.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 1429477,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Dark mountain",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Dark_mountain.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Dark_mountain.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 121252,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Wall 38",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Wall_38.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Wall_38.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 423801,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Mountain",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Mountain.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Mountain.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 89963,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Spooky Leaves",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Spooky_Leaves.png",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Spooky_Leaves.png",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 3642422,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Sharp leaf",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Sharp_leaf.jpeg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Sharp_leaf.jpeg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 3153421,
+        	        "copyright": " none" 
+        	},
+	        {
+	                "name": "Reflection",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Reflection.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Reflection.jpg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 4497296,
         	        "copyright": " none" 
         	},
 	        {
@@ -1430,6 +1840,16 @@
         	        "copyright": " none" 
         	},
 	        {
+	                "name": "Dark texture 2",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Dark_texture_2.jpeg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Dark_texture_2.jpeg",
+	                "collections": "Nature",
+	                "downloadable": true,
+	                "size": 1145256,
+        	        "copyright": " none" 
+        	},
+	        {
 	                "name": "Pebbles",
 	                "author": " unknown ",
 	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Pebbles.jpg",
@@ -1440,153 +1860,33 @@
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Green leaf",
+	                "name": "Dark bird",
 	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Green_leaf.png",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Green_leaf.png",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Dark_bird.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Dark_bird.jpg",
 	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 5688995,
+	                "size": 540730,
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "Winter",
+	                "name": "Cloud",
 	                "author": " unknown ",
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Winter.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Winter.jpg",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Cloud.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Cloud.jpg",
 	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 4438214,
+	                "size": 161540,
         	        "copyright": " none" 
         	},
 	        {
-	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-05",
-	                "author":  "OnePlus" ,
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-05.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-05.jpg",
-	                "collections": "OnePlus",
+	                "name": "Dark long leaves",
+	                "author": " unknown ",
+	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/Nature/Dark_long_leaves.jpg",
+	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/Dark_long_leaves.jpg",
+	                "collections": "Nature",
 	                "downloadable": true,
-	                "size": 118152,
-        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
-        	},
-	        {
-	                "name": "OnePlus-7T-Stock-Wallpaper-01",
-	                "author":  "OnePlus" ,
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-7T-Stock-Wallpaper-01.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-7T-Stock-Wallpaper-01.jpg",
-	                "collections": "OnePlus",
-	                "downloadable": true,
-	                "size": 119164,
-        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
-        	},
-	        {
-	                "name": "OnePlus-7T-Stock-Wallpaper-06",
-	                "author":  "OnePlus" ,
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-7T-Stock-Wallpaper-06.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-7T-Stock-Wallpaper-06.jpg",
-	                "collections": "OnePlus",
-	                "downloadable": true,
-	                "size": 1085821,
-        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
-        	},
-	        {
-	                "name": "OnePlus-7T-Pro-McLaren-Stock-Wallpaper-01",
-	                "author":  "OnePlus" ,
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-7T-Pro-McLaren-Stock-Wallpaper-01.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-7T-Pro-McLaren-Stock-Wallpaper-01.jpg",
-	                "collections": "OnePlus",
-	                "downloadable": true,
-	                "size": 98406,
-        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
-        	},
-	        {
-	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-06",
-	                "author":  "OnePlus" ,
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-06.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-06.jpg",
-	                "collections": "OnePlus",
-	                "downloadable": true,
-	                "size": 101687,
-        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
-        	},
-	        {
-	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-04",
-	                "author":  "OnePlus" ,
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-04.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-04.jpg",
-	                "collections": "OnePlus",
-	                "downloadable": true,
-	                "size": 190769,
-        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
-        	},
-	        {
-	                "name": "OnePlus-7T-Pro-McLaren-Stock-Wallpaper-05",
-	                "author":  "OnePlus" ,
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-7T-Pro-McLaren-Stock-Wallpaper-05.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-7T-Pro-McLaren-Stock-Wallpaper-05.jpg",
-	                "collections": "OnePlus",
-	                "downloadable": true,
-	                "size": 159603,
-        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
-        	},
-	        {
-	                "name": "OnePlus-7T-Stock-Wallpaper-05",
-	                "author":  "OnePlus" ,
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-7T-Stock-Wallpaper-05.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-7T-Stock-Wallpaper-05.jpg",
-	                "collections": "OnePlus",
-	                "downloadable": true,
-	                "size": 589624,
-        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
-        	},
-	        {
-	                "name": "OnePlus-7T-Stock-Wallpaper-07",
-	                "author":  "OnePlus" ,
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-7T-Stock-Wallpaper-07.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-7T-Stock-Wallpaper-07.jpg",
-	                "collections": "OnePlus",
-	                "downloadable": true,
-	                "size": 578767,
-        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
-        	},
-	        {
-	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-03",
-	                "author":  "OnePlus" ,
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-03.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-03.jpg",
-	                "collections": "OnePlus",
-	                "downloadable": true,
-	                "size": 103401,
-        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
-        	},
-	        {
-	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-02",
-	                "author":  "OnePlus" ,
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-02.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-02.jpg",
-	                "collections": "OnePlus",
-	                "downloadable": true,
-	                "size": 185446,
-        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
-        	},
-	        {
-	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-07",
-	                "author":  "OnePlus" ,
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-07.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-07.jpg",
-	                "collections": "OnePlus",
-	                "downloadable": true,
-	                "size": 183159,
-        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
-        	},
-	        {
-	                "name": "OnePlus-6T-McLaren-Edition-Wallpaper-01",
-	                "author":  "OnePlus" ,
-	                "url": "https://github.com/vjspranav/Wallpapers/raw/sx/OnePlus/OnePlus-6T-McLaren-Edition-Wallpaper-01.jpg",
-	                "thumbnail": "https://github.com/vjspranav/Wallpapers/raw/sx/thumbs/OnePlus-6T-McLaren-Edition-Wallpaper-01.jpg",
-	                "collections": "OnePlus",
-	                "downloadable": true,
-	                "size": 160244,
-        	        "copyright":  "Oneplus Technology (Shenzen) Co., Ltd" 
+	                "size": 40355,
+        	        "copyright": " none" 
         	}
 ]

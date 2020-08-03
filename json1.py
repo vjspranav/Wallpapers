@@ -24,11 +24,15 @@ def createAuthor(fname):
 			d[key] = val1
 
 def compressimg(x1, y1):
-	foo = Image.open(x1)
-	x, y = foo.size
-	x2, y2 = math.floor(x-50), math.floor(y-20)
-	foo = foo.resize((x2,y2),Image.LANCZOS)
-	foo.save('thumbs/'+y1,optimize=True,quality=20)
+	try:
+		foo = Image.open(x1)
+		x, y = foo.size
+		x2, y2 = math.floor(x-50), math.floor(y-20)
+		foo = foo.resize((x2,y2),Image.LANCZOS)
+		foo.save('thumbs/'+y1,optimize=True,quality=20)
+	except:
+		rgb_im = foo.convert('RGB')
+		rgb_im.save('thumbs/'+y1,optimize=True,quality=20)
 
 folist=os.listdir('.')
 if 'json1.py' in folist: folist.remove('json1.py')
