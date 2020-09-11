@@ -24,8 +24,8 @@ def createAuthor(fname):
 			d[key] = val1
 
 def compressimg(x1, y1):
+	foo = Image.open(x1)
 	try:
-		foo = Image.open(x1)
 		x, y = foo.size
 		x2, y2 = math.floor(x-50), math.floor(y-20)
 		foo = foo.resize((x2,y2),Image.LANCZOS)
@@ -50,6 +50,7 @@ for j in folist:
 	list=[f for f in os.listdir(j) if os.path.isfile(j+'/'+f)]
 	count = count+len(list)
 
+print(d)
 for j in folist:
 	list=[f for f in os.listdir(j) if os.path.isfile(j+'/'+f)]
 	list.remove("Authors.txt")
