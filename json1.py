@@ -50,7 +50,6 @@ for j in folist:
 	list=[f for f in os.listdir(j) if os.path.isfile(j+'/'+f)]
 	count = count+len(list)
 
-print(d)
 for j in folist:
 	list=[f for f in os.listdir(j) if os.path.isfile(j+'/'+f)]
 	list.remove("Authors.txt")
@@ -61,7 +60,7 @@ for j in folist:
 		if '.jpg' in name: name=name.replace('.jpg', '')
 		if '.jpeg' in name: name=name.replace('.jpeg', '')
 		if '.png' in name: name=name.replace('.png', '')
-		print('(', no, '/' ,count, ') Compressing ' + i, end='\r')
+		print('(', no, '/' ,count, ') Compressing ' + i + '                    ', end='\r')
 		compressimg(fname, i)
 		s=os.stat(fname).st_size
 		cpr = d[i + "_copyright"]
@@ -86,7 +85,7 @@ with open('walls.json', 'w') as outfile:
 	outfile.write(data[-1] +'\n]')
 
 os.system("git add .")
-os.system('git commit -m "Add some more new Walls"')
+os.system('git commit -m "Add some OnePlus Walls"')
 os.system("git push origin HEAD:sx")
 
 print('Json Generated and pushed successfully')
