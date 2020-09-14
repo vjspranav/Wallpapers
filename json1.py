@@ -85,7 +85,7 @@ with open('walls.json', 'w') as outfile:
 	outfile.write(data[-1] +'\n]')
 
 os.system("git add .")
-os.system('git commit -m "Add some OnePlus Walls"')
+os.system('git commit -m "Add new Walls"')
 os.system("git push origin HEAD:sx")
 
 print('Json Generated and pushed successfully')

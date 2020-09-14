@@ -28,3 +28,7 @@ Stag_Unique.png : unknown : none
 Stag_Matrix.jpg : unknown : none
 Fluorescent_Green.png : unknown : none
 Core_Red.png : unknown : none
+Stag_Os_Walls_1.png : unknown : none
+Stag_Os_Walls_2.png : unknown : none
+Stag_Os_Walls_3.png : unknown : none
+Stag_Os_Walls_4.png : unknown : none
