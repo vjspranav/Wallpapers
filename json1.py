@@ -38,6 +38,7 @@ folist=os.listdir('.')
 if 'json1.py' in folist: folist.remove('json1.py')
 if 'walls.json' in folist: folist.remove('walls.json')
 if 'README.txt' in folist: folist.remove('README.txt')
+if 'createAuthors.py' in folist: folist.remove('createAuthors.py')
 folist.remove('thumbs')
 folist.remove('.git')
 data = []
